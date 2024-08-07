@@ -8,5 +8,5 @@
 #### (4) Move2pdf ----> If the file extention is .pdf we call this function that create a pdf subdirectory if not already exist then move file to it. 
 #### (5) Move2misc ----> For any other cases like no extention or unkown extention and hidden files we call this function that create a misc subdirectory if not 		 	already exist then move this file to it. 
 #### (6) main ----> Function that contain the script logic.
-## Screenshot from the directory after organization using this script:
+## * Screenshot from the directory after organization using this script:
 ![Screenshot 2024-08-07 190909](https://github.com/user-attachments/assets/63fa7ac0-474e-4efe-95fd-1a551746319a)
