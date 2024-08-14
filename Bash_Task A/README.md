@@ -23,5 +23,5 @@
 ## 💻 Run The Script:
 
    ```bash
-   chmod +x Process_Monitor.sh
-   ./Process_Monitor.sh
+   chmod +x File_Organizer.sh
+   ./File_Organizer.sh
